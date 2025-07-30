@@ -1,0 +1,8 @@
+feat: Chapter 7 - データ取得機能の実装
+
+Next.jsチュートリアルのChapter 7を完了し、データ取得機能を実装しました。
+
+主な変更点:
+- `fetchRevenue`などのデータ取得関数を有効化
+- Revenue ChartとLatest Invoicesコンポーネントで、実際にデータをフェッチして表示するように更新
+- 不要になったファイル (.env.example, app/dashboard/page.tsx) を削除
